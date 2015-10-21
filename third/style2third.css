@@ -1,0 +1,67 @@
+html {
+	height: 100%;
+	width: 50%;
+}
+
+header {
+	height: 60px;
+	width: 100%;
+	background-color: #5d6057;
+}
+
+header p {
+	font-size: 15px;
+	font-family: sans-serif;
+	color: white;
+	display: inline-block;
+	position: relative;
+	top: 3px;
+	left: 30px;
+	margin-left: 10px;
+}
+
+.google {
+	display: inline-block;
+	margin-left: 50px;
+}
+
+.content {
+	height: 600px;
+	width: 100%;
+}
+
+.column {
+	height: 90%;
+	width: 300px;
+	background-color: white;
+	display: inline-block;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
+.first {
+	float: left;
+	margin-left: 20px;
+}
+
+.second {
+	float: right;
+	margin-right: 20px;
+}
+
+.image {
+	height: 33%;
+	width: 100%;
+	background-color: #eee;
+}
+
+.column > p {
+	font-size: 10px;
+}
+
+footer {
+	height: 60px;
+	width: 100%;
+	background-color: #5d6057;
+}
