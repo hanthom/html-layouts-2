@@ -1,0 +1,91 @@
+html {
+	height: 100%;
+	width: 50%;
+}
+
+.background {
+	height: 100%;
+	width: 100%;
+	background-color: #eee;
+}
+
+.first-box {
+	height: 200px;
+	width: 80%;
+	background-color: white;
+	margin: auto;
+	margin-bottom: 20px;
+	position: relative;
+	top: 20px;
+}
+
+.red {
+	background-color: red;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.button {
+	height: 50px;
+	width: 100px;
+	margin: 10px;
+	display: inline-block;
+	float: left;
+	position: relative;
+	top: 120px;
+	left: 20px;
+}
+
+.second-box {
+	height: 400px;
+	width: 80%;
+	background-color: white;
+	margin: auto;
+	margin-top: 60px;
+	position: relative;
+	bottom: 20px;
+}
+
+.image {
+	height: 60%;
+	width: 90%;
+	background-color: grey;
+	margin: auto;
+	position: relative;
+	top: 20px;
+}
+
+footer {
+	height: 75px;
+	width: 100%;
+	background-color: grey;
+}
+
+.Apple {
+	position: relative;
+	left: 460px;
+	top: 12px;
+	display: inline-block;
+}
+
+
+.Google {
+	position: relative;
+	left: 525px;
+	top: 12px;
+	display: inline-block;
+}
+
+p {
+	color: white;
+	font-family: sans-serif;
+}
+
+.click {
+	position: relative;
+	top: -5px;
+	left: 30px;
+	font-size: 20px;
+}
